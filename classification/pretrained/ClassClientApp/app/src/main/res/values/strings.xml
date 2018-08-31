@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imagenet Classify</string>
+    <string name="title_activity_main">Imagenet Classify</string>
+
+
+    <!--Title Slide-->
+    <string name="title_text">Imagenet Classification App</string>
+    <string name="title_footnote">Tap to begin</string>
+</resources>

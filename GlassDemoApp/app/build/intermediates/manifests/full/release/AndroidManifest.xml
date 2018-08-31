@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.glassdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <!-- For free-style voice trigger and voice menus. -->
+    <uses-permission android:name="com.google.android.glass.permission.DEVELOPMENT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/osi_logo_icon"
+        android:immersive="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.glassdemo.MainActivity"
+            android:immersive="true"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.VOICE_TRIGGER" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="com.google.android.glass.category.DIRECTORY" />
+            </intent-filter>
+
+            <meta-data
+                android:name="com.google.android.glass.VoiceTrigger"
+                android:resource="@xml/voice_trigger" />
+        </activity>
+        <activity
+            android:name="com.example.glassdemo.TestSelect"
+            android:exported="true" />
+        <activity
+            android:name="com.example.glassdemo.TaskTimer"
+            android:exported="true"
+            android:immersive="true" />
+        <activity
+            android:name="com.example.glassdemo.TaskVoice"
+            android:exported="true" />
+        <activity
+            android:name="com.example.glassdemo.TaskCamera"
+            android:exported="true" />
+        <activity
+            android:name="com.example.glassdemo.TimerIntro"
+            android:exported="true" />
+        <activity
+            android:name="com.example.glassdemo.MainTimer"
+            android:exported="true" />
+    </application>
+
+</manifest>

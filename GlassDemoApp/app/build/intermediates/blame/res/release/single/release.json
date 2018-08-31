@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_vertical.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/vertical.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_scissor.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/scissor.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_barcode.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/barcode.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_timer.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/timer.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_engine_power_boom.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/engine_power_boom.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/xml_voice_trigger.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/xml/voice_trigger.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/menu_task_start_stop_menu.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/menu/task_start_stop_menu.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/layout_main_timer.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/layout/main_timer.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_ic_glass_logo.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/ic_glass_logo.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_osi_logo.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/osi_logo.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_electric_boom.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/electric_boom.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/layout_timer_results.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/layout/timer_results.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_utility_vehicle.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/utility_vehicle.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/menu_camera_menu.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/menu/camera_menu.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/layout_main_timer1.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/layout/main_timer1.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_camera.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/menu_voice_menu.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/menu/voice_menu.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_osi_logo_icon.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/osi_logo_icon.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_voice.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/voice.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/layout_timer.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/layout/timer.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_jlg.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/jlg.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/menu_timer_intro_menu.xml.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/menu/timer_intro_menu.xml"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_glass.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/glass.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_carrier.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/carrier.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/drawable-hdpi_ic_stop.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/drawable-hdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/andymetcalf/Documents/glass/GlassDemo/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/andymetcalf/Documents/glass/GlassDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

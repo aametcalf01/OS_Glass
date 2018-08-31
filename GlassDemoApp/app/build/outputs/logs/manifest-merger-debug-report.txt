@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+	package
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:2:1-32
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:1-50:12
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#com.google.android.glass.permission.DEVELOPMENT
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:5:5-86
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:5:22-84
+application
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:6:1-48:15
+	android:supportsRtl
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:10:5-31
+	android:label
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:8:5-37
+	android:immersive
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:12:5-29
+	android:icon
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:9:5-43
+	android:allowBackup
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:7:5-31
+	android:theme
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:11:5-36
+activity#com.example.glassdemo.MainActivity
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:15:5-28:16
+	android:label
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:17:9-52
+	android:immersive
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+action:name:com.google.android.glass.action.VOICE_TRIGGER+category:name:android.intent.category.LAUNCHER+category:name:com.google.android.glass.category.DIRECTORY
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:19:9-24:25
+action#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:20:13-84
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:20:21-81
+action#android.intent.action.MAIN
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:21:13-64
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:22:13-72
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:22:23-70
+category#com.google.android.glass.category.DIRECTORY
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:23:13-84
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:23:23-81
+meta-data#com.google.android.glass.VoiceTrigger
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:25:9-27:53
+	android:resource
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:27:13-50
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:26:13-65
+activity#com.example.glassdemo.TestSelect
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:29:5-30:34
+	android:exported
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:30:9-32
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:29:15-41
+activity#com.example.glassdemo.TaskTimer
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:32:5-34:34
+	android:exported
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:34:9-32
+	android:immersive
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:32:15-40
+activity#com.example.glassdemo.TaskVoice
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:36:5-37:34
+	android:exported
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:37:9-32
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:36:15-40
+activity#com.example.glassdemo.TaskCamera
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:39:5-40:34
+	android:exported
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:40:9-32
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:39:15-41
+activity#com.example.glassdemo.TimerIntro
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:42:5-43:34
+	android:exported
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:43:9-32
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:42:15-41
+activity#com.example.glassdemo.MainTimer
+ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:45:5-46:34
+	android:exported
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:46:9-32
+	android:name
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml:45:15-40
+uses-sdk
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/AndroidManifest.xml

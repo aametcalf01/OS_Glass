@@ -1,0 +1,40 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.example.andymetcalf.objectdetectclient">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <!-- For free-style voice trigger and voice menus. -->
+    <uses-permission android:name="com.google.android.glass.permission.DEVELOPMENT"/>
+
+<application
+    android:allowBackup="true"
+    android:label="Object Detect"
+    android:icon="@drawable/osi_logo_icon"
+    android:supportsRtl="true"
+    android:theme="@style/AppTheme"
+    android:immersive="true">
+
+    <activity
+        android:name=".MainActivity"
+        android:label="Object Detect"
+        android:icon="@drawable/osi_logo_icon"
+        android:immersive="true">
+        <intent-filter>
+            <action android:name="com.google.android.glass.action.VOICE_TRIGGER" />
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+            <category android:name="com.google.android.glass.category.DIRECTORY" />
+        </intent-filter>
+        <meta-data
+            android:name="com.google.android.glass.VoiceTrigger"
+            android:resource="@xml/voice_trigger" />
+    </activity>
+    <activity android:name=".ImageViewer"
+        android:exported="true"
+        android:immersive="true"
+        android:keepScreenOn="true"/>
+
+</application>
+
+</manifest>

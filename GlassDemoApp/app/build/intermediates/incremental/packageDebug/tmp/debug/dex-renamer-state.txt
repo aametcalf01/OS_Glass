@@ -1,0 +1,4 @@
+#Fri Aug 31 11:19:16 EDT 2018
+base.0=/Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

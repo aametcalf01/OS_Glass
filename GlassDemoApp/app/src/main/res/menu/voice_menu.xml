@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_vehicles"
+        android:title="Select a vehicle">
+
+    <menu>
+        <item
+            android:id="@+id/menu_utility"
+            android:title="Utility Vehicle"
+            />
+        <item
+            android:id="@+id/menu_carrier"
+            android:title="Carrier Vehicle"
+            />
+    </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_lifts"
+        android:title="Select a lift"
+        >
+    <menu>
+        <item
+            android:id="@+id/menu_scissor"
+            android:title="Scissor Lift"
+            />
+        <item
+            android:id="@+id/menu_engine_powered_boom"
+            android:title="Engine Powered Boom"
+            />
+        <item
+            android:id="@+id/menu_electric_boom"
+            android:title="Electric Powered Boom"
+            />
+        <item
+            android:id="@+id/menu_vertical"
+            android:title="Vertical Lift"
+            />
+    </menu>
+    </item>
+
+</menu>

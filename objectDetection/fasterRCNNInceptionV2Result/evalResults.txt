@@ -1,0 +1,13 @@
+Average Precision: 0.9716664156264194
+
+Mean Average Precision: 0.9716664156264194
+
+Precision: [1.         1.         1.         ... 0.00988711 0.00988674 0.00988636]
+
+Recall: [0.00378788 0.00757576 0.01136364 ... 0.98863636 0.98863636 0.98863636]
+
+Precision/Recall vector length: 26400
+
+Average Precision: 0.055180520041456654
+
+Average Recall: 0.9817597853535351

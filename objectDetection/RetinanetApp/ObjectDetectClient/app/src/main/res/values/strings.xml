@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pretrained Object Detect</string>
+    <string name="title_activity_main">Pretrained Object Detect</string>
+
+    <!--Title Slide-->
+    <string name="title_text">Object Detection App</string>
+    <string name="title_footnote">Tap to begin</string>
+
+</resources>

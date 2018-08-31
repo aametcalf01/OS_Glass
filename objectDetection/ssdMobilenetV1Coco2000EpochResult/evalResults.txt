@@ -1,0 +1,13 @@
+cd mAverage Precision: 0.6463176374405306
+
+Mean Average Precision: 0.6463176374405306
+
+Precision: [1.         1.         1.         ... 0.0096977  0.00969734 0.00969697]
+
+Recall: [0.00378788 0.00757576 0.01136364 ... 0.96969697 0.96969697 0.96969697]
+
+Precision/Recall vector length: 26400
+
+Average Precision: 0.04819909617715219
+
+Average Recall: 0.9430459423783288

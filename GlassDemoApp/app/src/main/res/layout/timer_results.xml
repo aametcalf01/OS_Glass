@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+    <TableRow>
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/table_title"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:gravity="center" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:id="@+id/task1"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:textSize="32dp"/>
+        <TextView
+            android:id="@+id/task1Result"
+            android:gravity="right"
+            android:layout_marginRight="@dimen/right_margin"
+            android:textSize="32dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/task2"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:textSize="32dp"/>
+        <TextView
+            android:id="@+id/task2Result"
+            android:gravity="right"
+            android:layout_marginRight="@dimen/right_margin"
+            android:textSize="32dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/task3"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:textSize="32dp"/>
+        <TextView
+            android:id="@+id/task3Result"
+            android:gravity="right"
+            android:layout_marginRight="@dimen/right_margin"
+            android:textSize="32dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/task4"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:textSize="32dp"/>
+        <TextView
+            android:id="@+id/task4Result"
+            android:gravity="right"
+            android:layout_marginRight="@dimen/right_margin"
+            android:textSize="32dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/task5"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:textSize="32dp"/>
+        <TextView
+            android:id="@+id/task5Result"
+            android:gravity="right"
+            android:layout_marginRight="@dimen/right_margin"
+            android:textSize="32dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:id="@+id/task6"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:textSize="32dp"/>
+        <TextView
+            android:id="@+id/task6Result"
+            android:gravity="right"
+            android:layout_marginRight="@dimen/right_margin"
+            android:textSize="32dp"/>
+    </TableRow>
+</TableLayout>

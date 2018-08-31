@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/start_task"
+        android:title = "Start timer"/>
+
+    <item
+        android:id="@+id/stop_task"
+        android:title = "Stop timer"/>
+
+    <item
+        android:id="@+id/next_task"
+        android:title="Next task"/>
+    <item
+        android:id="@+id/show_results"
+        android:title="Show test results"/>
+
+</menu>

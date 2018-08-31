@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:id="@+id/left_column"
+        android:layout_width="@dimen/glass_card_left_column_width"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/left_margin"
+        >
+
+        <!-- Put widgets for the left column inside this RelativeLayout. -->
+        <TextView
+            android:id="@+id/TaskHeader"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/top_card_margin"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/Timer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_below="@+id/TaskHeader"/>
+        <TextView
+            android:id="@+id/Instructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Timer" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/glass_card_body_height"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/glass_card_two_column_margin"
+        android:layout_marginRight="@dimen/glass_card_margin"
+        android:layout_marginTop="@dimen/glass_card_margin"
+        android:layout_toRightOf="@+id/left_column"
+        tools:ignore="UselessLeaf"
+        >
+
+        <!-- Put widgets for the right column inside this RelativeLayout. -->
+        <TextView
+            android:id="@+id/Time1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24.0sp"/>
+        <TextView
+            android:id="@+id/Time2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Time1"
+            android:textSize="24.0sp"/>
+        <TextView
+            android:id="@+id/Time3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Time2"
+            android:textSize="24.0sp"/>
+        <TextView
+            android:id="@+id/Time4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Time3"
+            android:textSize="24.0sp"/>
+        <TextView
+            android:id="@+id/Time5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Time4"
+            android:textSize="24.0sp"/>
+        <TextView
+            android:id="@+id/Time6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Time5"
+            android:textSize="24.0sp"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/footer_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="bottom|left"
+        android:layout_marginBottom="@dimen/glass_card_footer_margin"
+        android:layout_marginLeft="@dimen/glass_card_two_column_margin"
+        android:layout_marginRight="@dimen/glass_card_margin"
+        android:layout_toRightOf="@+id/left_column"
+        android:orientation="horizontal"
+        >
+
+        <!--
+             The footer view will grow to fit as much content as possible while the
+             timestamp view keeps a fixed width. If the footer text is too long, it
+             will be ellipsized with a 40px margin between it and the timestamp.
+        -->
+
+        <TextView
+            android:id="@+id/footer"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            />
+
+        <TextView
+            android:id="@+id/timestamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/glass_card_margin"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

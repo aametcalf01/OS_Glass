@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2,19,13,22,8,16,5,23,24,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,834,569,958,278,706,146,1019,1062,99",
+                        "endColumns": "42,54,55,60,48,59,48,42,43,46",
+                        "endOffsets": "93,884,620,1014,322,761,190,1057,1101,141"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,153,209,270,319,379,428,471,515",
+                        "endColumns": "42,54,55,60,48,59,48,42,43,46",
+                        "endOffsets": "93,148,204,265,314,374,423,466,510,557"
+                    }
+                },
+                {
+                    "source": "/Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "72",
+                        "endOffsets": "124"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "2447",
+                        "endColumns": "65",
+                        "endOffsets": "2508"
+                    }
+                },
+                {
+                    "source": "/Users/andymetcalf/Documents/OS_glass/GlassDemoApp/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,31,23,45,52,38,60,10,2,7,6,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,932,667,1383,1619,1159,1898,290,64,203,149,415",
+                        "endLines": "1,36,28,50,57,43,65,10,2,7,6,17",
+                        "endColumns": "47,32,37,45,46,31,13,94,58,55,53,41",
+                        "endOffsets": "59,1153,897,1613,1861,1377,2082,380,118,254,198,628"
+                    },
+                    "to": {
+                        "startLines": "12,13,19,25,31,37,43,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "562,610,836,1071,1306,1553,1776,1965,2060,2119,2175,2229",
+                        "endLines": "12,18,24,30,36,42,48,49,50,51,52,57",
+                        "endColumns": "47,32,37,45,46,31,13,94,58,55,53,41",
+                        "endOffsets": "605,831,1066,1301,1548,1771,1960,2055,2114,2170,2224,2442"
+                    }
+                }
+            ]
+        }
+    ]
+}

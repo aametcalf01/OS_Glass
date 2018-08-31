@@ -1,0 +1,10 @@
+python tensorflow/examples/label_image/label_image.py \ 
+  --graph=/tmp/mobilenet_0.50_192.pb \
+  --labels=/tmp/output_labels.txt \
+  --image=/home/harvitronix/ml/blogs/road-not-road/test-image.jpg \
+  --input_layer=input \
+  --output_layer=final_result \
+  --input_mean=128 \
+  --input_std=128 \
+  --input_width=192 \
+  --input_height=192
