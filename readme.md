@@ -1,13 +1,21 @@
 # Files and Directories
-GlassDemoApp: directory containing the Glass demo app
-JLGData: data collected from onsite visit to JLG
-OS Internship Report: report of findings from summer intership with optimal solutions
-WPA2_Enterprise.pdf: correspondence with google regarding connecting glass to WPA2 enterprise connection
-classification: directory containing the classification app
-droidAtScreen-1.2.jar: application to perform screen mirroring on mac with Google Glass
-objectDetection: directory containing the object detection apps
-timeTests.xlsx: classification and object detection infernce times
-videoDemonstrations: Glass app demonstrations
+<ins>GlassDemoApp</ins>: directory containing the Glass demo app
+
+<ins>JLGData</ins>: data collected from onsite visit to JLG
+
+<ins>OS Internship Report</ins>: report of findings from summer intership with optimal solutions
+
+<ins>WPA2_Enterprise.pdf</ins>: correspondence with google regarding connecting glass to WPA2 enterprise connection
+
+<ins>classification</ins>: directory containing the classification app
+
+<ins>droidAtScreen-1.2.jar</ins>: application to perform screen mirroring on mac with Google Glass
+
+<ins>objectDetection</ins>: directory containing the object detection apps
+
+<ins>timeTests.xlsx</ins>: classification and object detection infernce times
+
+<ins>videoDemonstrations</ins>: Glass app demonstrations
 
 
 # Working with Glass and Android Studio
